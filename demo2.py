@@ -1,0 +1,8 @@
+a = (1,2,3,4,"哈哈哈",True)
+# print (a[4])
+# print(a.index(4))
+# print(a.count(3))
+b =(1,2,5,7,a,"西瓜")
+# print(b[4][3])
+print(b[0:2])
+print(b[3:6])
